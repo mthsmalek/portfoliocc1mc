@@ -1,4 +1,37 @@
-body { 
-    background: linear-gradient(to top, rgba(241, 11, 192, 0.836) 30%, rgba(255, 0, 170, 0.952));
+@import url('https://fonts.googleapis.com/css2?family=Reddit+Mono:wght@200..900&display=swap');
+
+p { 
+    text-align: center;
+    color: rgb(52, 6, 95);
+    font-size: 24px;
+    font-weight: bold;
+    font-family: "Reddit Mono";
 }
 
+h2 { 
+    color: rgb(140, 0, 255);
+    text-transform: : capitalize;
+}
+h1 {
+    color: rgba(0, 0, 0, 0.966);
+    text-transform: capitalize;
+    text-align: center;
+}
+h2{ 
+text-align: center;
+}
+h3 {
+    text-align: center;
+}
+ol {
+    text-align: center;
+}
+table {
+    text-align: center;
+}
+li {
+    text-align: center;
+}
+ul { 
+    text-align: center;
+}
